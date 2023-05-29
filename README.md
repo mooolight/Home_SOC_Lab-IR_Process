@@ -17,4 +17,6 @@
 - Blue Team Tools: `https://github.com/A-poc/BlueTeam-Tools`
 - Paid Blue Team Course (quite pricey in USD) : `https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/`
 - More Blue Teaming Tools along with Deception: `https://github.com/fabacab/awesome-cybersecurity-blueteam`
+- Incident Response Playbook: `https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf`
+- Threat Hunting Playbook: `https://threathunterplaybook.com/intro.html`
 - 
