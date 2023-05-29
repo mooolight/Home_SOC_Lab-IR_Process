@@ -8,7 +8,7 @@
 - Create walkthroughs to the specifics of how a tool is used, how can we integrate it within our network security and how exactly can it protect us.
 - 
 
-### Start Date : May 29,2023 -> inf
+### Start Date : May 29,2023
 
 ### List of Sources:
 
