@@ -4,7 +4,7 @@
 
 ## Agenda:
 
-- Creating a secure network from the ground up by integrating SOC technologies and Incident Response for resiliency.
+- Creating a secure network from the ground up by integrating SOC technologies and Incident Response Process for resiliency with implementation of Defense In-Depth.
 - Create walkthroughs to the specifics of how a tool is used, how can we integrate it within our network security and how exactly can it protect us.
 - 
 
