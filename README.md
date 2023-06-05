@@ -19,4 +19,4 @@
 - More Blue Teaming Tools along with Deception: `https://github.com/fabacab/awesome-cybersecurity-blueteam`
 - Incident Response Playbook: `https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf`
 - Threat Hunting Playbook: `https://threathunterplaybook.com/intro.html`
-- 
+- Incident Response and Computer Forensics : `https://academy.cyber5w.com`
