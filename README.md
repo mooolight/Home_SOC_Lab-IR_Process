@@ -20,3 +20,4 @@
 - Incident Response Playbook: `https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf`
 - Threat Hunting Playbook: `https://threathunterplaybook.com/intro.html`
 - Incident Response and Computer Forensics : `https://academy.cyber5w.com`
+- Incident Response/Advance Red Team lab deployment: `https://detectionlab.network/` (also available on github)
